@@ -1,0 +1,30 @@
+Mar 13 18:23:22 :: Resetting #63: Arachnos (rooms 6300-6399).
+Mar 13 18:23:22 :: Resetting #64: Rand's Tower (rooms 6400-6499).
+Mar 13 18:23:22 :: Resetting #65: The Dwarven Kingdom (rooms 6500-6599).
+Mar 13 18:23:22 :: Resetting #70: The Sewer, First Level (rooms 7000-7099).
+Mar 13 18:23:22 :: Resetting #71: The Second Sewer (rooms 7100-7199).
+Mar 13 18:23:22 :: Resetting #72: The Sewer Maze (rooms 7200-7299).
+Mar 13 18:23:22 :: Resetting #73: The Tunnels In The Sewer (rooms 7300-7399).
+Mar 13 18:23:22 :: Resetting #79: Redferne's Residence (rooms 7900-7999).
+Mar 13 18:23:22 :: Resetting #120: Rome (rooms 12000-12099).
+Mar 13 18:23:22 :: Resetting #150: King Welmar's Castle (rooms 15000-15099).
+Mar 13 18:23:22 :: Resetting #186: Newbie Zone (rooms 18600-18699).
+Mar 13 18:23:22 :: Boot db -- DONE.
+Mar 13 18:23:22 :: Signal trapping.
+Mar 13 18:23:22 :: Entering game loop.
+Mar 13 18:23:22 :: No connections.  Going to sleep.
+Mar 13 18:23:27 :: New connection.  Waking up.
+Mar 13 18:23:30 :: Amalgamation [linksys01835] has connected.
+Mar 13 18:23:33 :: Amalgamation entering game with no equipment.
+autorun starting game Fri Mar 13 18:23:55 EDT 2020
+running bin/circle -q 4000
+Mar 13 18:23:55 :: CircleMUD, version 3.1
+Mar 13 18:23:55 :: Using lib as data directory.
+Mar 13 18:23:55 :: Running game on port 4000.
+Mar 13 18:23:55 :: Finding player limit.
+Mar 13 18:23:55 ::    Setting player limit to 300 using rlimit.
+Mar 13 18:23:55 :: Opening mother connection.
+Mar 13 18:23:55 :: Binding to all IP interfaces on this host.
+SYSERR: bind: Address already in use
+Quick boot mode -- rent check supressed.
+Using file descriptor for logging.

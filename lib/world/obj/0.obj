@@ -8,6 +8,36 @@ report it immediately using the BUG command.~
 0 0 0 0
 0 0 0
 #1
+staff light~ 
+an ornate snake carved staff~
+A very powerful looking staff is sitting here.~
+~
+1 abgiq ao
+0 0 -1 0
+1 10000 10
+E
+staff light~
+This staff was fashioned by the gods, it emits a warm soft glow that is powered by magic and never dies.~
+A
+12 50
+#2
+dagger~ 
+a very aggressive looking dagger~
+A dagger of violent agreement is sitting here.~
+~
+5 bgq an
+0 3 6 11
+1 10000 10
+E
+dagger~
+A very blunt, aggressive dagger suitable for backstabbing lies here. It violently agrees with you.~
+A
+2 6
+A
+14 50
+A
+19 25
+#3
 wings~
 a pair of wings~
 A pair of wings is sitting here.~
@@ -29,3 +59,4 @@ The waybread is the traditional feed of elves when travelling, they
 call it lembas.  It is said to refresh the weary traveler greatly.
 ~
 $
+

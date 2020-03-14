@@ -1,11 +1,11 @@
 /* ************************************************************************
-*   File: config.c                                      Part of CircleMUD *
-*  Usage: Configuration of various aspects of CircleMUD operation         *
+*   File: config.c                                      Part of The Uncanny Valley MUD *
+*  Usage: Configuration of various aspects of The Uncanny Valley MUD operation         *
 *                                                                         *
 *  All rights reserved.  See license.doc for complete information.        *
 *                                                                         *
 *  Copyright (C) 1993, 94 by the Trustees of the Johns Hopkins University *
-*  CircleMUD is based on DikuMUD, Copyright (C) 1990, 1991.               *
+*  The Uncanny Valley MUD is based on DikuMUD, Copyright (C) 1990, 1991.               *
 ************************************************************************ */
 
 #define __CONFIG_C__
@@ -23,7 +23,7 @@
 
 /*
  * Below are several constants which you can change to alter certain aspects
- * of the way CircleMUD acts.  Since this is a .c file, all you have to do
+ * of the way The Uncanny Valley MUD acts.  Since this is a .c file, all you have to do
  * to change one of the constants (assuming you keep your object files around)
  * is change the constant in this file and type 'make'.  Make will recompile
  * this file and relink; you don't have to wait for the whole thing to
@@ -111,7 +111,7 @@ int track_through_doors = YES;
 /*
  * If you want mortals to level up to immortal once they have enough
  * experience, then set this to 0.  This is the stock behaviour for
- * CircleMUD because it was the stock DikuMud behaviour.  Subtracting
+ * The Uncanny Valley MUD because it was the stock DikuMud behaviour.  Subtracting
  * this from LVL_IMMORT gives the top level that people can advance to
  * in gain_exp() in limits.c
  * For example, to stop people from advancing to LVL_IMMORT, simply set
@@ -269,8 +269,8 @@ int nameserver_is_slow = NO;
 
 const char *MENU =
 "\r\n"
-"Welcome to CircleMUD!\r\n"
-"0) Exit from CircleMUD.\r\n"
+"Welcome to The Uncanny Valley MUD!\r\n"
+"0) Exit from The Uncanny Valley MUD.\r\n"
 "1) Enter the game.\r\n"
 "2) Enter description.\r\n"
 "3) Read the background story.\r\n"
@@ -283,11 +283,11 @@ const char *MENU =
 
 const char *WELC_MESSG =
 "\r\n"
-"Welcome to the land of CircleMUD!  May your visit here be... Interesting."
+"Welcome to the land of The Uncanny Valley MUD!  May your visit here be... Interesting."
 "\r\n\r\n";
 
 const char *START_MESSG =
-"Welcome.  This is your new CircleMUD character!  You can now earn gold,\r\n"
+"Welcome.  This is your new The Uncanny Valley MUD character!  You can now earn gold,\r\n"
 "gain experience, find weapons and equipment, and much more -- while\r\n"
 "meeting people from around the world!\r\n";
 
